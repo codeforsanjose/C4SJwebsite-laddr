@@ -1,7 +1,7 @@
 # laddr
 
 Laddr -- pronounced "ladder" and named after the essential tool for fire brigades -- is a web application designed to create an online home-base for [Code for America brigades](http://brigade.codeforamerica.org).
-
+[![Stories in Ready](https://badge.waffle.io/codeforsanjose/laddr.png?label=ready&title=Ready)](http://waffle.io/codeforsanjose/laddr)
 ## Features
 - [Projects Directory]
   - Each project can have a users URL, developers URL, markdown README
@@ -63,8 +63,8 @@ sites, clones, or child sites. The guides for Ubuntu and Gentoo are most up-to-d
 [per-project updates]: http://codeforphilly.org/project-updates?format=rss&ProjectID=40
 [global buzz feed]: http://codeforphilly.org/project-buzz
 [Big Screen]: http://codeforphilly.org/bigscreen
-readme.md
 
-[![Stories in Ready](https://badge.waffle.io/codeforsanjose/laddr.png?label=ready&title=Ready)](http://waffle.io/codeforsanjose/laddr)
-readme.rst
+
+
+
 
