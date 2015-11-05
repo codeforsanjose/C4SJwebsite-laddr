@@ -2,7 +2,7 @@
 
 Laddr -- pronounced "ladder" and named after the essential tool for fire brigades -- is a web application designed to create an online home-base for [Code for America brigades](http://brigade.codeforamerica.org).
 
-[![Stories in Ready](https://badge.waffle.io/codeforsanjose/laddr.png?label=ready&title=Ready)](http://waffle.io/codeforsanjose/laddr)
+[![Stories in Ready](https://badge.waffle.io/codeforsanjose/C4SJwebsite-laddr.png?label=ready&title=Ready)](http://waffle.io/codeforsanjose/C4SJwebsite-laddr)
 
 ## Features
 - [Projects Directory]
