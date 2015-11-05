@@ -63,3 +63,14 @@ sites, clones, or child sites. The guides for Ubuntu and Gentoo are most up-to-d
 [per-project updates]: http://codeforphilly.org/project-updates?format=rss&ProjectID=40
 [global buzz feed]: http://codeforphilly.org/project-buzz
 [Big Screen]: http://codeforphilly.org/bigscreen
+readme.md
+
+[![Stories in Ready](https://badge.waffle.io/codeforsanjose/laddr.png?label=ready&title=Ready)](http://waffle.io/codeforsanjose/laddr)
+readme.rst
+
+.. image:: https://badge.waffle.io/codeforsanjose/laddr.png?label=ready&title=Ready 
+ :target: https://waffle.io/codeforsanjose/laddr 
+ :alt: 'Stories in Ready'
+readme.rdoc
+
+{<img alt='Stories in Ready' src='https://badge.waffle.io/codeforsanjose/laddr.png?label=ready&title=Ready' />}[https://waffle.io/codeforsanjose/laddr]
